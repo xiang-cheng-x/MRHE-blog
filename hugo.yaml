@@ -1,7 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "zh-cn"
 title: "Hugo Profile"
-theme: hugo-profile
 
 # Multilingual configuration
 defaultContentLanguage: "zh"
