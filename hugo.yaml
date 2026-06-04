@@ -115,6 +115,8 @@ languages:
                 date: "2016年2月 - 2017年3月"
                 content: "目前，我在加利福尼亚州旧金山的 [example org.](https://example.com) 担任软件 Free 开发者。我正在参与一个项目，该项目旨在帮助人们找到在城市中出行的最佳方式。"
       education:
+        enable: true
+        title: "教育"
         items:
           - title: "工商管理硕士"
             school:
@@ -153,6 +155,8 @@ languages:
               enable: true
               url: "https://example.com"
       projects:
+       enable: true
+       title: "项目"
         items:
           - title: Hugo Profile
             content: 一个高度可定制且移动优先的 Hugo 模板，适用于个人作品集和博客。
@@ -197,6 +201,8 @@ languages:
               - icon: fab fa-github
                 url: https://github.com/gurusabarish/HugoProfileV2
       achievements:
+        enable: true
+        title: "成就"
         items:
           - title: Google Kickstart 入围者
             content: 解决了所有问题并获得最优解。
@@ -215,6 +221,8 @@ languages:
             content: 为开源项目做出了贡献。
             url: https://example.com
       contact:
+        enable: true
+        title: "联系我"
         content: 我的收件箱始终敞开。无论您是有问题还是只想打个招呼，我都会尽力回复您！
         btnName: 给我写信
 
