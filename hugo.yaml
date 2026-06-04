@@ -42,8 +42,8 @@ languages:
         skills:
           title: "以下是我最近一直使用的一些技术："
       experience:
-      enable: true
-      title: "履历"
+        enable: true
+        title: "履历"
         items:
           - company: "Facebook"
             companyUrl: "https://example.com"
