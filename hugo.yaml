@@ -29,6 +29,7 @@ languages:
         title: "肉身宣言。"
         subtitle: "超限亲密重构指南"
         content: "致厌倦通俗论调的你。我们拆解［认知神经学 × 隐秘心理学 × 真实爱欲样本］，在无数次碰撞中，重构你我的深层连接。"
+        image: /images/home-hero.png
         button:
           name: "简历"
       about:
