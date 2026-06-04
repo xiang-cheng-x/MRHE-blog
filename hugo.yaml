@@ -25,10 +25,10 @@ languages:
           weight: 2
     params:
       hero:
-        intro: "你好，我叫"
-        title: "Isabella."
-        subtitle: "我为网络构建东西"
-        content: "一名充满热情的网页应用开发者。我倾向于使用现代网络技术来构建外观精美、体验绝佳且运行良好的网站。"
+        intro: "这里没有教育，只有"
+        title: "肉身宣言。"
+        subtitle: "超限亲密重构指南"
+        content: "致厌倦通俗论调的你。我们拆解［认知神经学 × 隐秘心理学 × 真实爱欲样本］，在无数次碰撞中，重构你我的深层连接。"
         button:
           name: "简历"
       about:
