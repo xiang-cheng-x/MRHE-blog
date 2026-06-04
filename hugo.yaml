@@ -33,7 +33,7 @@ languages:
         image: /images/home-hero.png
       about:
         title: "关于我"
-        avatar: /images/avatar.jpg
+        avatar: "static/images/avatar.jpg"
         content: |-
           我是一名对网页开发充满热情的软件 Free 开发者。我有计算机科学和数学背景，对技术与艺术的交汇有着浓厚的兴趣。目前，我在加利福尼亚州旧金山的 [example org.](https://example.com) 担任软件 Free 开发者。
 
