@@ -155,8 +155,8 @@ languages:
               enable: true
               url: "https://example.com"
       projects:
-       enable: true
-       title: "项目"
+        enable: true
+        title: "项目"
         items:
           - title: Hugo Profile
             content: 一个高度可定制且移动优先的 Hugo 模板，适用于个人作品集和博客。
